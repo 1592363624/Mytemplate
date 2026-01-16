@@ -1,0 +1,18 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Shell",
+  "classifications": [
+    "WPF",
+    "Desktop",
+    "MVVM"
+  ],
+  "identity": "Shell.Wpf.Mvvm.Template",
+  "name": "WPF 桌面程序（MVVM）",
+  "shortName": "wpf-mvvm",
+  "sourceName": "Mytemplate",
+  "preferNameDirectory": true,
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
