@@ -19,9 +19,7 @@
         <Folder Include="Views\"/>
     </ItemGroup>
 
-    <ItemGroup>
-        <Content Include=".template.config\template.json"/>
-    </ItemGroup>
+
 
     <ItemGroup>
         <PackageReference Include="CommunityToolkit.Mvvm" Version="8.4.0"/>
